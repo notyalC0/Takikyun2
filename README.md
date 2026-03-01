@@ -1,5 +1,5 @@
 <!-- HEADER -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b51b8b&height=120&section=header&text=Clayton+Santos+/+Taki&fontSize=30&fontColor=fff&animation=twinkling&fontAligny=35" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b51b8b&height=120&section=header&text=Clayton+Santos&fontSize=30&fontColor=fff&animation=twinkling&fontAligny=35" />
 
 <!-- INTRO TYPING -->
 <span align='left'>
@@ -7,12 +7,7 @@
 </span>
 
 <!-- PROFILE PIC -->
-<img align="right" width="350em" src="https://avatars.githubusercontent.com/u/153693994?v=4" style="border-radius:12px;" />
 
-<!-- VIEWS -->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Takikyun2&color=e06262" alt="Profile views" />
-</p>
 
 ---
 
@@ -70,7 +65,7 @@ Sou Técnico em Desenvolvimento de Sistemas (SENAC), atualmente cursando **Anál
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Takikyun2&show_icons=true&theme=dracula&title_color=b51b8b&icon_color=b51b8b&text_color=fff&bg_color=0d1117" width="480"/>
+<img src="https://github-readme-stats.vercel.app/api?username=notyalC0&show_icons=true&theme=dracula&title_color=b51b8b&icon_color=b51b8b&text_color=fff&bg_color=0d1117" width="480"/>
 
 </div>
 
@@ -103,7 +98,7 @@ Sou Técnico em Desenvolvimento de Sistemas (SENAC), atualmente cursando **Anál
 # 📊 GitHub Stats
 
 <p align="center">
-  <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Takikyun2&theme=radical"/>
+  <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=notyalC0&theme=radical"/>
 </p>
 
 <br/>
