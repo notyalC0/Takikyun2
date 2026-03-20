@@ -1,5 +1,5 @@
 <!-- HEADER -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d0d0d,50:1a0533,100:6e00ff&amp;height=140&amp;section=header&amp;text=Clayton+Santos&amp;fontSize=34&amp;fontColor=c084fc&amp;animation=twinkling&amp;fontAlignY=38&amp;desc=Flutter+%26+Java+Developer+%7C+ADS+%40+IFBA&amp;descSize=16&amp;descAlignY=58&amp;descColor=a78bfa" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d0d0d,50:1a0533,100:6e00ff&amp;height=140&amp;section=header&amp;text=Clayton+Santos&amp;fontSize=34&amp;fontColor=c084fc&amp;animation=twinkling&amp;fontAlignY=45" />
 
 <!-- INTRO TYPING -->
 <p align="center">
@@ -177,4 +177,4 @@
 </p>
 
 <!-- FOOTER -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:6e00ff,50:1a0533,100:0d0d0d&amp;height=120&amp;section=footer&amp;text=Keep+Coding+%F0%9F%91%BE&amp;fontSize=20&amp;fontColor=c084fc&amp;fontAlignY=65" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:6e00ff,50:1a0533,100:0d0d0d&amp;height=120&amp;section=footer&amp;text=Keep+Coding&amp;fontSize=20&amp;fontColor=c084fc&amp;fontAlignY=65" />
