@@ -150,8 +150,8 @@
 ## 📊 GITHUB STATS
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=notyalC0&show_icons=true&theme=midnight-purple&title_color=c084fc&icon_color=a78bfa&text_color=e9d5ff&bg_color=0d0d0d&border_color=6e00ff&border_radius=12" alt="Estatísticas do GitHub de notyalC0" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notyalC0&layout=compact&theme=midnight-purple&title_color=c084fc&text_color=e9d5ff&bg_color=0d0d0d&border_color=6e00ff&border_radius=12" alt="Linguagens mais usadas" />
+  <img width="49%" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=notyalC0&show_icons=true&theme=midnight-purple&title_color=c084fc&icon_color=a78bfa&text_color=e9d5ff&bg_color=0d0d0d&border_color=6e00ff&border_radius=12" />
+  <img width="49%" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=notyalC0&layout=compact&theme=midnight-purple&title_color=c084fc&text_color=e9d5ff&bg_color=0d0d0d&border_color=6e00ff&border_radius=12" />
 </p>
 
 <p align="center">
