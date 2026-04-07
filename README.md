@@ -150,8 +150,8 @@
 ## 📊 GITHUB STATS
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=notyalC0&amp;show_icons=true&amp;theme=midnight-purple&amp;title_color=c084fc&amp;icon_color=a78bfa&amp;text_color=e9d5ff&amp;bg_color=0d0d0d&amp;border_color=6e00ff&amp;border_radius=12" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notyalC0&amp;layout=compact&amp;theme=midnight-purple&amp;title_color=c084fc&amp;text_color=e9d5ff&amp;bg_color=0d0d0d&amp;border_color=6e00ff&amp;border_radius=12" />
+  <img width="49%" src="http://github-readme-stats.vercel.app/api?username=notyalC0&amp;show_icons=true&amp;theme=midnight-purple&amp;title_color=c084fc&amp;icon_color=a78bfa&amp;text_color=e9d5ff&amp;bg_color=0d0d0d&amp;border_color=6e00ff&amp;border_radius=12" />
+  <img width="49%" src="http://github-readme-stats.vercel.app/api/top-langs/?username=notyalC0&amp;layout=compact&amp;theme=midnight-purple&amp;title_color=c084fc&amp;text_color=e9d5ff&amp;bg_color=0d0d0d&amp;border_color=6e00ff&amp;border_radius=12" />
 </p>
 
 <p align="center">
